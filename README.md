@@ -1,0 +1,1 @@
+Higher Lower game in this game we are comparing Instagram followers of celebrities, if you give a correct answer then you will get a point and if you give a wrong answer then you will out from the game and the program will provide a final score to you.
